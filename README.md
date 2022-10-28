@@ -31,7 +31,9 @@
   <a href="https://github.com/kaiagaoqy?tab=repositories&language=JAVA" target="_blank"><img alt="java" src="https://img.shields.io/badge/-JAVA-749F82?style=flat-square&logo=java&logoColor=white"></a>
     <a href="https://github.com/kaiagaoqy?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/kaiagaoqy?tab=repositories&language=JavaScript" target="_blank"><img alt="js" src="https://img.shields.io/badge/-JavaScript-5391FE?style=flat-square&logo=javascript&logoColor=white"></a>
-  <a href="https://github.com/kaiagaoqy?tab=repositories&language=node" target="_blank"><img alt="node" src="https://img.shields.io/badge/-Node-5391FE?style=flat-square&logo=node.js&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=node" target="_blank"><img alt="node" src="https://img.shields.io/badge/-Node-1491FE?style=flat-square&logo=node.js&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=mysql" target="_blank"><img alt="mysql" src="https://img.shields.io/badge/-MySQL-DD5053?style=flat-square&logo=MySQL&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=mongoDB" target="_blank"><img alt="mongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=white"></a>
   <a href="https://github.com/kaiagaoqy?tab=repositories&language=vue" target="_blank"><img alt="vue" src="https://img.shields.io/badge/-Vue-5DA7DB?style=flat-square&logo=vue.js&logoColor=white"></a>
   <a href="https://github.com/kaiagaoqy?tab=repositories&language=Bash" target="_blank"><img alt="bash" src="https://img.shields.io/badge/-Bash-3C4048?style=flat-square&logo=Bash#&logoColor=white"></a>
   <a href="https://github.com/kaiagaoqy?tab=repositories&language=Swift" target="_blank"><img alt="swift" src="https://img.shields.io/badge/-Swift-DD5353?style=flat-square&logo=swift&logoColor=white"></a>

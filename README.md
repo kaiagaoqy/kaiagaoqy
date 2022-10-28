@@ -7,7 +7,8 @@
 **I also**
 - Focus on full-stack development and AR related projects
 - Worked as an busniess consultant in Ernst&Young
-<!-- - 📫 How to reach me -->
+
+📫 How to reach me: qgao14@jh.edu
 
 
 <div align="center">
@@ -27,12 +28,18 @@
 <p align="center">
     <a href="https://github.com/kaiagaoqy?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/kaiagaoqy?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/kaiagaoqy?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=JAVA" target="_blank"><img alt="java" src="https://img.shields.io/badge/-JAVA-749F82?style=flat-square&logo=java&logoColor=white"></a>
     <a href="https://github.com/kaiagaoqy?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/kaiagaoqy?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+    <a href="https://github.com/kaiagaoqy?tab=repositories&language=JavaScript" target="_blank"><img alt="js" src="https://img.shields.io/badge/-JavaScript-5391FE?style=flat-square&logo=javascript&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=node" target="_blank"><img alt="node" src="https://img.shields.io/badge/-Node-5391FE?style=flat-square&logo=node.js&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=vue" target="_blank"><img alt="vue" src="https://img.shields.io/badge/-Vue-5DA7DB?style=flat-square&logo=vue.js&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=Bash" target="_blank"><img alt="bash" src="https://img.shields.io/badge/-Bash-3C4048?style=flat-square&logo=Bash#&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=Swift" target="_blank"><img alt="swift" src="https://img.shields.io/badge/-Swift-DD5353?style=flat-square&logo=swift&logoColor=white"></a>
+  <a href="https://github.com/kaiagaoqy?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
     <a href="https://github.com/kaiagaoqy?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
     <a href="https://github.com/kaiagaoqy?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
+
 
 <p align="center">
     <a href="https://github.com/kaiagaoqy?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
@@ -41,11 +48,11 @@
     <a href="https://github.com/kaiagaoqy/kaiagaoqy" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/kaiagaoqy/kaiagaoqy?label=profile%20updated&style=flat-square"></a>
 </p>
 
-<details>
-<summary>Click for GitHub Stats</summary>
+<!--<details>
+<summary>Click for GitHub Stats</summary> -->
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaiagaoqy&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiagaoqy&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
-</details>
+<!--</details>-->

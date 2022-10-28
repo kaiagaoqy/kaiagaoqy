@@ -32,8 +32,8 @@
 
 <p align="center">
     <a href="https://github.com/kaiagaoqy?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/kaiagaoqy" target="_blank"><img alt="kaiagaoqy" src="https://badges.pufler.dev/visits/kaiagaoqy/kaiagaoqy?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/kaiagaoqy" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/kaiagaoqy/kaiagaoqy?label=hits&style=flat-square"></a>-->
+    <!--<a href="https://github.com/kaiagaoqy" target="_blank"><img alt="kaiagaoqy" src="https://badges.pufler.dev/visits/kaiagaoqy/kaiagaoqy?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/kaiagaoqy" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/kaiagaoqy/kaiagaoqy?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/kaiagaoqy/kaiagaoqy" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/kaiagaoqy/kaiagaoqy?label=profile%20updated&style=flat-square"></a>
 </p>
 

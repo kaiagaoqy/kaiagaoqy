@@ -2,10 +2,10 @@
 **I am**
 - A first year Master of Computer Science in Johns Hopkins University
 - A BS of Applied Statistics and BEcon of Finance in Central University of Finance and Economics(中央财经大学)
-- A co-founder of CANVAN Robot, a K-12 robotic education makerspace
 
 **I also**
 - Focus on full-stack development and AR related projects
+- was a co-founder of CANVAN Robot, a K-12 robotic education makerspace
 - Worked as an busniess consultant in Ernst&Young
 
 📫 How to reach me: qgao14@jh.edu

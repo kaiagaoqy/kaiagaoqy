@@ -6,7 +6,7 @@
 **I also**
 - Focus on full-stack development and AR related projects
 - Was a co-founder of CANVAN Robot, a K-12 robotic education makerspace
-- Worked as an busniess consultant in Ernst&Young
+- Worked as a busniess consultant in Ernst&Young
 
 📫 How to reach me: qgao14@jh.edu
 

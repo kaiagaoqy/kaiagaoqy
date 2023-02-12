@@ -5,8 +5,10 @@
 
 **I also**
 - Focus on full-stack development and AR related projects
+- Learning iOS app development
 - Was a co-founder of CANVAN Robot, a K-12 robotic education makerspace
-- Worked as a busniess consultant in Ernst&Young
+- Interned as machine learning engineer at Siemens Lt. and software development engineer at Walmart Tech USA.
+- Worked as a busniess consultant at Ernst&Young
 
 📫 How to reach me: qgao14@jh.edu
 

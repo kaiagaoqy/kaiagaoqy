@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Qingying Gao (aka Kaia Gao)
 **I am**
-- A first year Master of Computer Science in Johns Hopkins University
+- A first year PhD Student of Computer Science in Johns Hopkins University
+- A MSE of Computer Science in Johns Hopkins University
 - A BS of Applied Statistics and BEcon of Finance in Central University of Finance and Economics(中央财经大学)
 
 **I also**
